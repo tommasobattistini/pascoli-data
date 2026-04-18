@@ -1,0 +1,100 @@
+{
+  "campo": "bianchi_campo_a",
+  "lat": 43.58253,
+  "lon": 12.13834,
+  "aggiornato": "2026-04-18",
+  "giorni": [
+    {
+      "data": "2026-04-18",
+      "label": "Oggi",
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 21.8,
+      "temp_min": 9.0,
+      "pioggia_mm": 0.0,
+      "wmo_code": 3
+    },
+    {
+      "data": "2026-04-19",
+      "label": "Domani",
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 22.7,
+      "temp_min": 7.4,
+      "pioggia_mm": 0.2,
+      "wmo_code": 3
+    },
+    {
+      "data": "2026-04-20",
+      "label": "Mon",
+      "icona": "🌦",
+      "descrizione": "rovesci leggeri",
+      "temp_max": 21.0,
+      "temp_min": 8.5,
+      "pioggia_mm": 0.4,
+      "wmo_code": 80
+    },
+    {
+      "data": "2026-04-21",
+      "label": "Tue",
+      "icona": "🌦",
+      "descrizione": "rovesci leggeri",
+      "temp_max": 17.0,
+      "temp_min": 9.6,
+      "pioggia_mm": 1.3,
+      "wmo_code": 80
+    },
+    {
+      "data": "2026-04-22",
+      "label": "Wed",
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 14.1,
+      "temp_min": 7.5,
+      "pioggia_mm": 0.3,
+      "wmo_code": 3
+    },
+    {
+      "data": "2026-04-23",
+      "label": "Thu",
+      "icona": "🌤",
+      "descrizione": "prevalentemente sereno",
+      "temp_max": 16.7,
+      "temp_min": 6.4,
+      "pioggia_mm": 0.0,
+      "wmo_code": 1
+    },
+    {
+      "data": "2026-04-24",
+      "label": "Fri",
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 21.2,
+      "temp_min": 4.7,
+      "pioggia_mm": 0.0,
+      "wmo_code": 3
+    }
+  ],
+  "prossimi_3gg": [
+    {
+      "label": "Oggi",
+      "icona": "☁️",
+      "temp_max": 21.8,
+      "pioggia_mm": 0.0
+    },
+    {
+      "label": "Domani",
+      "icona": "☁️",
+      "temp_max": 22.7,
+      "pioggia_mm": 0.2
+    },
+    {
+      "label": "Mon",
+      "icona": "🌦",
+      "temp_max": 21.0,
+      "pioggia_mm": 0.4
+    }
+  ],
+  "pioggia_7gg": 2.2,
+  "temp_media_7gg": 13.4
+}

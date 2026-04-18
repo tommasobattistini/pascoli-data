@@ -1,0 +1,100 @@
+{
+  "campo": "pascolo_4",
+  "lat": 43.852326,
+  "lon": 12.19915,
+  "aggiornato": "2026-04-18",
+  "giorni": [
+    {
+      "data": "2026-04-18",
+      "label": "Oggi",
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 20.1,
+      "temp_min": 10.7,
+      "pioggia_mm": 0.0,
+      "wmo_code": 3
+    },
+    {
+      "data": "2026-04-19",
+      "label": "Domani",
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 22.1,
+      "temp_min": 9.9,
+      "pioggia_mm": 0.0,
+      "wmo_code": 3
+    },
+    {
+      "data": "2026-04-20",
+      "label": "Mon",
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 20.0,
+      "temp_min": 10.7,
+      "pioggia_mm": 0.0,
+      "wmo_code": 3
+    },
+    {
+      "data": "2026-04-21",
+      "label": "Tue",
+      "icona": "🌦",
+      "descrizione": "rovesci leggeri",
+      "temp_max": 14.2,
+      "temp_min": 8.6,
+      "pioggia_mm": 5.1,
+      "wmo_code": 80
+    },
+    {
+      "data": "2026-04-22",
+      "label": "Wed",
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 11.9,
+      "temp_min": 5.7,
+      "pioggia_mm": 0.0,
+      "wmo_code": 3
+    },
+    {
+      "data": "2026-04-23",
+      "label": "Thu",
+      "icona": "☀️",
+      "descrizione": "sereno",
+      "temp_max": 13.5,
+      "temp_min": 3.6,
+      "pioggia_mm": 0.0,
+      "wmo_code": 0
+    },
+    {
+      "data": "2026-04-24",
+      "label": "Fri",
+      "icona": "☀️",
+      "descrizione": "sereno",
+      "temp_max": 18.2,
+      "temp_min": 1.3,
+      "pioggia_mm": 0.0,
+      "wmo_code": 0
+    }
+  ],
+  "prossimi_3gg": [
+    {
+      "label": "Oggi",
+      "icona": "☁️",
+      "temp_max": 20.1,
+      "pioggia_mm": 0.0
+    },
+    {
+      "label": "Domani",
+      "icona": "☁️",
+      "temp_max": 22.1,
+      "pioggia_mm": 0.0
+    },
+    {
+      "label": "Mon",
+      "icona": "☁️",
+      "temp_max": 20.0,
+      "pioggia_mm": 0.0
+    }
+  ],
+  "pioggia_7gg": 5.1,
+  "temp_media_7gg": 12.2
+}
