@@ -41,3 +41,4 @@ date,mean_ndvi,mean_ndwi,delta_abs_ndvi,delta_abs_ndwi,campo,anno,source,ndvi_lo
 2026-05-01,0.6995,,,,bianchi_campo,2026,sentinel-1-conformal,0.5636,0.8355,high
 2026-05-02,0.8484869748616307,0.4631293850572847,,,bianchi_campo,2026,sentinel-2,,,
 2026-05-06,0.7003,,,,bianchi_campo,2026,sentinel-1-conformal,0.5643,0.8362,high
+2026-05-09,0.8512446119627075,0.46805847849919335,0.012401535777256889,0.01712562133881884,bianchi_campo,2026,sentinel-2,,,

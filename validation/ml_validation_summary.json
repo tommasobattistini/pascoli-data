@@ -1,0 +1,204 @@
+{
+  "generated_at": "2026-05-17T08:22:49.938056",
+  "n_pairs_total": 1040,
+  "max_gap_days": 7,
+  "overall": {
+    "n_pairs": 1040,
+    "mae": 0.1922,
+    "rmse": 0.2883,
+    "bias": 0.0857,
+    "coverage_90": 0.6048
+  },
+  "by_confidence": {
+    "high": {
+      "n_pairs": 616,
+      "mae": 0.1817,
+      "rmse": 0.2694,
+      "bias": 0.0632,
+      "coverage_90": 0.5487
+    },
+    "medium": {
+      "n_pairs": 424,
+      "mae": 0.2075,
+      "rmse": 0.3138,
+      "bias": 0.1185,
+      "coverage_90": 0.6863
+    }
+  },
+  "by_season": {
+    "autumn": {
+      "n_pairs": 216,
+      "mae": 0.2217,
+      "rmse": 0.3335,
+      "bias": 0.1396,
+      "coverage_90": 0.6528
+    },
+    "spring": {
+      "n_pairs": 328,
+      "mae": 0.2434,
+      "rmse": 0.3261,
+      "bias": 0.0778,
+      "coverage_90": 0.4299
+    },
+    "summer": {
+      "n_pairs": 288,
+      "mae": 0.1114,
+      "rmse": 0.1846,
+      "bias": 0.0464,
+      "coverage_90": 0.684
+    },
+    "winter": {
+      "n_pairs": 208,
+      "mae": 0.1928,
+      "rmse": 0.292,
+      "bias": 0.0966,
+      "coverage_90": 0.7212
+    }
+  },
+  "by_year": {
+    "2022": {
+      "n_pairs": 192,
+      "mae": 0.1678,
+      "rmse": 0.239,
+      "bias": 0.0687,
+      "coverage_90": 0.6198
+    },
+    "2023": {
+      "n_pairs": 192,
+      "mae": 0.1744,
+      "rmse": 0.2756,
+      "bias": 0.0531,
+      "coverage_90": 0.6667
+    },
+    "2024": {
+      "n_pairs": 288,
+      "mae": 0.1952,
+      "rmse": 0.2873,
+      "bias": 0.0805,
+      "coverage_90": 0.5799
+    },
+    "2025": {
+      "n_pairs": 272,
+      "mae": 0.1991,
+      "rmse": 0.3062,
+      "bias": 0.1154,
+      "coverage_90": 0.6176
+    },
+    "2026": {
+      "n_pairs": 96,
+      "mae": 0.2487,
+      "rmse": 0.348,
+      "bias": 0.1166,
+      "coverage_90": 0.4896
+    }
+  },
+  "by_campo": {
+    "bianchi_campo": {
+      "n_pairs": 130,
+      "mae": 0.2041,
+      "rmse": 0.2999,
+      "bias": 0.0595,
+      "coverage_90": 0.5615
+    },
+    "pascolo_1": {
+      "n_pairs": 130,
+      "mae": 0.2132,
+      "rmse": 0.3197,
+      "bias": 0.1279,
+      "coverage_90": 0.6
+    },
+    "pascolo_2": {
+      "n_pairs": 130,
+      "mae": 0.2011,
+      "rmse": 0.2971,
+      "bias": 0.1103,
+      "coverage_90": 0.5923
+    },
+    "pascolo_3": {
+      "n_pairs": 130,
+      "mae": 0.1965,
+      "rmse": 0.2887,
+      "bias": 0.0828,
+      "coverage_90": 0.6
+    },
+    "pascolo_4": {
+      "n_pairs": 130,
+      "mae": 0.1801,
+      "rmse": 0.2618,
+      "bias": 0.0886,
+      "coverage_90": 0.5769
+    },
+    "pascolo_5": {
+      "n_pairs": 130,
+      "mae": 0.1874,
+      "rmse": 0.2895,
+      "bias": 0.0885,
+      "coverage_90": 0.6462
+    },
+    "pascolo_6": {
+      "n_pairs": 130,
+      "mae": 0.1977,
+      "rmse": 0.303,
+      "bias": 0.0908,
+      "coverage_90": 0.6308
+    },
+    "rossi_campo": {
+      "n_pairs": 130,
+      "mae": 0.1577,
+      "rmse": 0.2389,
+      "bias": 0.0374,
+      "coverage_90": 0.6308
+    }
+  },
+  "by_gap_days": {
+    "gap_1d": {
+      "n_pairs": 256,
+      "mae": 0.1551,
+      "rmse": 0.2523,
+      "bias": 0.0799,
+      "coverage_90": 0.6992
+    },
+    "gap_2d": {
+      "n_pairs": 360,
+      "mae": 0.1688,
+      "rmse": 0.2617,
+      "bias": 0.0762,
+      "coverage_90": 0.6444
+    },
+    "gap_3d": {
+      "n_pairs": 112,
+      "mae": 0.1528,
+      "rmse": 0.2285,
+      "bias": -0.0042,
+      "coverage_90": 0.5893
+    },
+    "gap_4d": {
+      "n_pairs": 128,
+      "mae": 0.2168,
+      "rmse": 0.2915,
+      "bias": 0.0206,
+      "coverage_90": 0.5469
+    },
+    "gap_5d": {
+      "n_pairs": 32,
+      "mae": 0.3415,
+      "rmse": 0.431,
+      "bias": 0.2875,
+      "coverage_90": 0.3438
+    },
+    "gap_6d": {
+      "n_pairs": 72,
+      "mae": 0.3582,
+      "rmse": 0.4434,
+      "bias": 0.2639,
+      "coverage_90": 0.3333
+    },
+    "gap_7d": {
+      "n_pairs": 80,
+      "mae": 0.2235,
+      "rmse": 0.3293,
+      "bias": 0.1362,
+      "coverage_90": 0.5875
+    }
+  }
+}
