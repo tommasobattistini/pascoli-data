@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-23T08:24:34.229265",
-  "n_pairs_total": 1040,
+  "generated_at": "2026-05-25T10:05:32.226976",
+  "n_pairs_total": 1056,
   "max_gap_days": 7,
   "overall": {
-    "n_pairs": 1040,
-    "mae": 0.1922,
-    "rmse": 0.2883,
-    "bias": 0.0857,
-    "coverage_90": 0.6048
+    "n_pairs": 1056,
+    "mae": 0.1994,
+    "rmse": 0.2977,
+    "bias": 0.0945,
+    "coverage_90": 0.5956
   },
   "by_confidence": {
     "high": {
-      "n_pairs": 616,
-      "mae": 0.1817,
-      "rmse": 0.2694,
-      "bias": 0.0632,
-      "coverage_90": 0.5487
+      "n_pairs": 632,
+      "mae": 0.1939,
+      "rmse": 0.2864,
+      "bias": 0.0783,
+      "coverage_90": 0.5348
     },
     "medium": {
       "n_pairs": 424,
@@ -34,11 +34,11 @@
       "coverage_90": 0.6528
     },
     "spring": {
-      "n_pairs": 328,
-      "mae": 0.2434,
-      "rmse": 0.3261,
-      "bias": 0.0778,
-      "coverage_90": 0.4299
+      "n_pairs": 344,
+      "mae": 0.2629,
+      "rmse": 0.3496,
+      "bias": 0.105,
+      "coverage_90": 0.4099
     },
     "summer": {
       "n_pairs": 288,
@@ -85,78 +85,78 @@
       "coverage_90": 0.6176
     },
     "2026": {
-      "n_pairs": 96,
-      "mae": 0.2487,
-      "rmse": 0.348,
-      "bias": 0.1166,
-      "coverage_90": 0.4896
+      "n_pairs": 112,
+      "mae": 0.3078,
+      "rmse": 0.4094,
+      "bias": 0.1946,
+      "coverage_90": 0.4196
     }
   },
   "by_campo": {
     "bianchi_campo": {
-      "n_pairs": 130,
-      "mae": 0.2041,
-      "rmse": 0.2999,
-      "bias": 0.0595,
-      "coverage_90": 0.5615
+      "n_pairs": 132,
+      "mae": 0.2117,
+      "rmse": 0.31,
+      "bias": 0.0693,
+      "coverage_90": 0.553
     },
     "pascolo_1": {
-      "n_pairs": 130,
-      "mae": 0.2132,
-      "rmse": 0.3197,
-      "bias": 0.1279,
-      "coverage_90": 0.6
+      "n_pairs": 132,
+      "mae": 0.2202,
+      "rmse": 0.3281,
+      "bias": 0.1363,
+      "coverage_90": 0.5909
     },
     "pascolo_2": {
-      "n_pairs": 130,
-      "mae": 0.2011,
-      "rmse": 0.2971,
-      "bias": 0.1103,
-      "coverage_90": 0.5923
+      "n_pairs": 132,
+      "mae": 0.2083,
+      "rmse": 0.3063,
+      "bias": 0.1188,
+      "coverage_90": 0.5833
     },
     "pascolo_3": {
-      "n_pairs": 130,
-      "mae": 0.1965,
-      "rmse": 0.2887,
-      "bias": 0.0828,
-      "coverage_90": 0.6
+      "n_pairs": 132,
+      "mae": 0.2043,
+      "rmse": 0.2997,
+      "bias": 0.0923,
+      "coverage_90": 0.5909
     },
     "pascolo_4": {
-      "n_pairs": 130,
-      "mae": 0.1801,
-      "rmse": 0.2618,
-      "bias": 0.0886,
-      "coverage_90": 0.5769
+      "n_pairs": 132,
+      "mae": 0.1857,
+      "rmse": 0.2686,
+      "bias": 0.0956,
+      "coverage_90": 0.5682
     },
     "pascolo_5": {
-      "n_pairs": 130,
-      "mae": 0.1874,
-      "rmse": 0.2895,
-      "bias": 0.0885,
-      "coverage_90": 0.6462
+      "n_pairs": 132,
+      "mae": 0.1955,
+      "rmse": 0.3007,
+      "bias": 0.098,
+      "coverage_90": 0.6364
     },
     "pascolo_6": {
-      "n_pairs": 130,
-      "mae": 0.1977,
-      "rmse": 0.303,
-      "bias": 0.0908,
-      "coverage_90": 0.6308
+      "n_pairs": 132,
+      "mae": 0.2023,
+      "rmse": 0.307,
+      "bias": 0.0971,
+      "coverage_90": 0.6212
     },
     "rossi_campo": {
-      "n_pairs": 130,
-      "mae": 0.1577,
-      "rmse": 0.2389,
-      "bias": 0.0374,
-      "coverage_90": 0.6308
+      "n_pairs": 132,
+      "mae": 0.1667,
+      "rmse": 0.2547,
+      "bias": 0.0483,
+      "coverage_90": 0.6212
     }
   },
   "by_gap_days": {
     "gap_1d": {
-      "n_pairs": 256,
-      "mae": 0.1551,
-      "rmse": 0.2523,
-      "bias": 0.0799,
-      "coverage_90": 0.6992
+      "n_pairs": 264,
+      "mae": 0.171,
+      "rmse": 0.2755,
+      "bias": 0.0981,
+      "coverage_90": 0.678
     },
     "gap_2d": {
       "n_pairs": 360,
@@ -187,11 +187,11 @@
       "coverage_90": 0.3438
     },
     "gap_6d": {
-      "n_pairs": 72,
-      "mae": 0.3582,
-      "rmse": 0.4434,
-      "bias": 0.2639,
-      "coverage_90": 0.3333
+      "n_pairs": 80,
+      "mae": 0.3869,
+      "rmse": 0.4686,
+      "bias": 0.3021,
+      "coverage_90": 0.3
     },
     "gap_7d": {
       "n_pairs": 80,
