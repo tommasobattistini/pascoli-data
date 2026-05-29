@@ -19,7 +19,7 @@ date,mean_ndvi,mean_ndwi,delta_abs_ndvi,delta_abs_ndwi,campo,anno,source,ndvi_lo
 2025-03-18,0.7799,,,,pascolo_1,2025,sentinel-1-conformal-imputed,0.644,0.9158,high
 2025-03-20,0.6998,,,,pascolo_1,2025,sentinel-1-conformal-imputed,0.5639,0.8357,high
 2025-03-22,0.8039,,,,pascolo_1,2025,sentinel-1-conformal,0.668,0.9398,high
-2025-03-25,0.1197611595444672,0.1073781379777802,0.7381498308669956,0.2798485392204851,pascolo_1,2025,sentinel-2,,,
+2025-03-25,0.8269,,,,pascolo_1,2025,sentinel-1-conformal-imputed,0.6909,0.9628,high
 2025-03-30,0.8447,,,,pascolo_1,2025,sentinel-1-conformal-imputed,0.7087,0.9806,high
 2025-04-01,0.7472,,,,pascolo_1,2025,sentinel-1-conformal,0.6112,0.8831,high
 2025-04-04,0.8763481065827692,0.4345286894160066,0.5720962981621678,0.2178606255014877,pascolo_1,2025,sentinel-2,,,
