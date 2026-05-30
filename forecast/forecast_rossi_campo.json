@@ -9,7 +9,7 @@
       "label": "Oggi",
       "icona": "⛅",
       "descrizione": "parzialmente nuvoloso",
-      "temp_max": 25.2,
+      "temp_max": 25.3,
       "temp_min": 12.5,
       "pioggia_mm": 0.0,
       "wmo_code": 2
@@ -17,52 +17,52 @@
     {
       "data": "2026-05-31",
       "label": "Domani",
-      "icona": "☁️",
-      "descrizione": "coperto",
-      "temp_max": 25.4,
-      "temp_min": 14.9,
+      "icona": "🌤",
+      "descrizione": "prevalentemente sereno",
+      "temp_max": 26.0,
+      "temp_min": 15.5,
       "pioggia_mm": 0.0,
-      "wmo_code": 3
+      "wmo_code": 1
     },
     {
       "data": "2026-06-01",
       "label": "Mon",
       "icona": "⛈",
       "descrizione": "temporale con grandine",
-      "temp_max": 20.9,
-      "temp_min": 14.3,
-      "pioggia_mm": 14.8,
+      "temp_max": 21.6,
+      "temp_min": 14.6,
+      "pioggia_mm": 11.2,
       "wmo_code": 96
     },
     {
       "data": "2026-06-02",
       "label": "Tue",
-      "icona": "⛈",
-      "descrizione": "temporale",
-      "temp_max": 19.1,
-      "temp_min": 14.2,
-      "pioggia_mm": 3.3,
-      "wmo_code": 95
+      "icona": "🌦",
+      "descrizione": "rovesci leggeri",
+      "temp_max": 19.4,
+      "temp_min": 14.5,
+      "pioggia_mm": 1.1,
+      "wmo_code": 80
     },
     {
       "data": "2026-06-03",
       "label": "Wed",
-      "icona": "⛈",
-      "descrizione": "temporale",
-      "temp_max": 16.3,
-      "temp_min": 12.5,
-      "pioggia_mm": 23.1,
-      "wmo_code": 95
+      "icona": "🌦",
+      "descrizione": "rovesci leggeri",
+      "temp_max": 17.7,
+      "temp_min": 11.4,
+      "pioggia_mm": 3.9,
+      "wmo_code": 80
     },
     {
       "data": "2026-06-04",
       "label": "Thu",
-      "icona": "☁️",
-      "descrizione": "coperto",
+      "icona": "🌫",
+      "descrizione": "nebbia",
       "temp_max": 20.1,
-      "temp_min": 11.3,
+      "temp_min": 11.0,
       "pioggia_mm": 0.0,
-      "wmo_code": 3
+      "wmo_code": 45
     },
     {
       "data": "2026-06-05",
@@ -79,22 +79,22 @@
     {
       "label": "Oggi",
       "icona": "⛅",
-      "temp_max": 25.2,
+      "temp_max": 25.3,
       "pioggia_mm": 0.0
     },
     {
       "label": "Domani",
-      "icona": "☁️",
-      "temp_max": 25.4,
+      "icona": "🌤",
+      "temp_max": 26.0,
       "pioggia_mm": 0.0
     },
     {
       "label": "Mon",
       "icona": "⛈",
-      "temp_max": 20.9,
-      "pioggia_mm": 14.8
+      "temp_max": 21.6,
+      "pioggia_mm": 11.2
     }
   ],
-  "pioggia_7gg": 41.2,
-  "temp_media_7gg": 17.4
+  "pioggia_7gg": 16.2,
+  "temp_media_7gg": 17.6
 }

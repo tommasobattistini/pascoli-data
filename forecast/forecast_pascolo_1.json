@@ -9,7 +9,7 @@
       "label": "Oggi",
       "icona": "☁️",
       "descrizione": "coperto",
-      "temp_max": 28.0,
+      "temp_max": 27.9,
       "temp_min": 14.0,
       "pioggia_mm": 0.0,
       "wmo_code": 3
@@ -17,30 +17,30 @@
     {
       "data": "2026-05-31",
       "label": "Domani",
-      "icona": "🌧",
-      "descrizione": "rovesci",
-      "temp_max": 29.0,
-      "temp_min": 17.0,
-      "pioggia_mm": 23.4,
-      "wmo_code": 81
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 30.0,
+      "temp_min": 17.1,
+      "pioggia_mm": 0.0,
+      "wmo_code": 3
     },
     {
       "data": "2026-06-01",
       "label": "Mon",
-      "icona": "🌦",
-      "descrizione": "rovesci leggeri",
-      "temp_max": 24.0,
-      "temp_min": 16.8,
-      "pioggia_mm": 3.6,
-      "wmo_code": 80
+      "icona": "⛈",
+      "descrizione": "temporale",
+      "temp_max": 25.6,
+      "temp_min": 17.1,
+      "pioggia_mm": 3.2,
+      "wmo_code": 95
     },
     {
       "data": "2026-06-02",
       "label": "Tue",
       "icona": "☁️",
       "descrizione": "coperto",
-      "temp_max": 24.4,
-      "temp_min": 14.6,
+      "temp_max": 24.9,
+      "temp_min": 14.9,
       "pioggia_mm": 0.0,
       "wmo_code": 3
     },
@@ -49,9 +49,9 @@
       "label": "Wed",
       "icona": "⛈",
       "descrizione": "temporale",
-      "temp_max": 21.1,
-      "temp_min": 14.3,
-      "pioggia_mm": 12.0,
+      "temp_max": 22.3,
+      "temp_min": 14.0,
+      "pioggia_mm": 4.5,
       "wmo_code": 95
     },
     {
@@ -60,7 +60,7 @@
       "icona": "☁️",
       "descrizione": "coperto",
       "temp_max": 21.8,
-      "temp_min": 13.6,
+      "temp_min": 13.9,
       "pioggia_mm": 0.0,
       "wmo_code": 3
     },
@@ -79,22 +79,22 @@
     {
       "label": "Oggi",
       "icona": "☁️",
-      "temp_max": 28.0,
+      "temp_max": 27.9,
       "pioggia_mm": 0.0
     },
     {
       "label": "Domani",
-      "icona": "🌧",
-      "temp_max": 29.0,
-      "pioggia_mm": 23.4
+      "icona": "☁️",
+      "temp_max": 30.0,
+      "pioggia_mm": 0.0
     },
     {
       "label": "Mon",
-      "icona": "🌦",
-      "temp_max": 24.0,
-      "pioggia_mm": 3.6
+      "icona": "⛈",
+      "temp_max": 25.6,
+      "pioggia_mm": 3.2
     }
   ],
-  "pioggia_7gg": 39.0,
-  "temp_media_7gg": 20.0
+  "pioggia_7gg": 7.7,
+  "temp_media_7gg": 20.4
 }
