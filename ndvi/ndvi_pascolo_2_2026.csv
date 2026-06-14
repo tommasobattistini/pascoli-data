@@ -50,3 +50,4 @@ date,mean_ndvi,mean_ndwi,delta_abs_ndvi,delta_abs_ndwi,campo,anno,source,ndvi_lo
 2026-05-26,0.5751,,,,pascolo_2,2026,sentinel-1-conformal,0.4391,0.711,high
 2026-05-31,0.4131,,,,pascolo_2,2026,sentinel-1-conformal,0.2771,0.549,high
 2026-06-05,0.5167,,,,pascolo_2,2026,sentinel-1-conformal,0.4167,0.6166,high
+2026-06-10,0.7333,,,,pascolo_2,2026,sentinel-1-conformal,0.6333,0.8332,high
