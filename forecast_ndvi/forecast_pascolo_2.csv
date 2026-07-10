@@ -1,5 +1,5 @@
 campo,generated_at,reference_date,date_forecast,horizon_days,days_in_future,mean_ndvi_forecast,ndvi_lower_90,ndvi_upper_90,conformal_margin,confidence,model_type,source
-pascolo_2,2026-07-09T11:15:31.689522+02:00,2026-07-05,2026-07-06,1,-3,0.6416,0.534,0.7492,0.1076,high,persistence,forecast-v1.1-hybrid
-pascolo_2,2026-07-09T11:15:31.697837+02:00,2026-07-05,2026-07-08,3,-1,0.6225,0.5123,0.7327,0.1102,medium,xgboost_v11,forecast-v1.1-hybrid
-pascolo_2,2026-07-09T11:15:31.707209+02:00,2026-07-05,2026-07-12,7,3,0.5939,0.4555,0.7323,0.1384,medium,xgboost_v11,forecast-v1.1-hybrid
-pascolo_2,2026-07-09T11:15:31.716660+02:00,2026-07-05,2026-07-19,14,10,0.5348,0.3904,0.6792,0.1444,medium,xgboost_v11,forecast-v1.1-hybrid
+pascolo_2,2026-07-10T11:05:55.172006+02:00,2026-07-05,2026-07-06,1,-4,0.6416,0.534,0.7492,0.1076,high,persistence,forecast-v1.1-hybrid
+pascolo_2,2026-07-10T11:05:55.183625+02:00,2026-07-05,2026-07-08,3,-2,0.6377,0.5275,0.7479,0.1102,medium,xgboost_v11,forecast-v1.1-hybrid
+pascolo_2,2026-07-10T11:05:55.197022+02:00,2026-07-05,2026-07-12,7,2,0.6025,0.4641,0.7409,0.1384,medium,xgboost_v11,forecast-v1.1-hybrid
+pascolo_2,2026-07-10T11:05:55.210860+02:00,2026-07-05,2026-07-19,14,9,0.5367,0.3923,0.6811,0.1444,medium,xgboost_v11,forecast-v1.1-hybrid
