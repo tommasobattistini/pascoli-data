@@ -2,35 +2,25 @@
   "campo": "pascolo_5",
   "lat": 43.853707,
   "lon": 12.19744,
-  "aggiornato": "2026-07-23",
+  "aggiornato": "2026-07-24",
   "giorni": [
     {
-      "data": "2026-07-23",
+      "data": "2026-07-24",
       "label": "Oggi",
       "icona": "☁️",
       "descrizione": "coperto",
-      "temp_max": 27.0,
-      "temp_min": 14.0,
-      "pioggia_mm": 0.0,
-      "wmo_code": 3
-    },
-    {
-      "data": "2026-07-24",
-      "label": "Domani",
-      "icona": "☁️",
-      "descrizione": "coperto",
-      "temp_max": 24.2,
-      "temp_min": 14.4,
+      "temp_max": 25.1,
+      "temp_min": 14.9,
       "pioggia_mm": 0.0,
       "wmo_code": 3
     },
     {
       "data": "2026-07-25",
-      "label": "Sat",
+      "label": "Domani",
       "icona": "☁️",
       "descrizione": "coperto",
-      "temp_max": 30.5,
-      "temp_min": 14.3,
+      "temp_max": 31.2,
+      "temp_min": 15.0,
       "pioggia_mm": 0.0,
       "wmo_code": 3
     },
@@ -39,38 +29,48 @@
       "label": "Sun",
       "icona": "☁️",
       "descrizione": "coperto",
-      "temp_max": 27.0,
-      "temp_min": 18.8,
-      "pioggia_mm": 0.4,
+      "temp_max": 27.2,
+      "temp_min": 17.6,
+      "pioggia_mm": 0.3,
       "wmo_code": 3
     },
     {
       "data": "2026-07-27",
       "label": "Mon",
-      "icona": "⛅",
-      "descrizione": "parzialmente nuvoloso",
-      "temp_max": 28.2,
-      "temp_min": 15.5,
-      "pioggia_mm": 0.3,
-      "wmo_code": 2
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 29.2,
+      "temp_min": 15.6,
+      "pioggia_mm": 0.0,
+      "wmo_code": 3
     },
     {
       "data": "2026-07-28",
       "label": "Tue",
-      "icona": "🌤",
-      "descrizione": "prevalentemente sereno",
-      "temp_max": 28.1,
-      "temp_min": 18.1,
+      "icona": "⛅",
+      "descrizione": "parzialmente nuvoloso",
+      "temp_max": 29.8,
+      "temp_min": 17.4,
       "pioggia_mm": 0.0,
-      "wmo_code": 1
+      "wmo_code": 2
     },
     {
       "data": "2026-07-29",
       "label": "Wed",
+      "icona": "⛅",
+      "descrizione": "parzialmente nuvoloso",
+      "temp_max": 31.2,
+      "temp_min": 18.6,
+      "pioggia_mm": 0.0,
+      "wmo_code": 2
+    },
+    {
+      "data": "2026-07-30",
+      "label": "Thu",
       "icona": "🌤",
       "descrizione": "prevalentemente sereno",
-      "temp_max": 28.9,
-      "temp_min": 17.8,
+      "temp_max": 31.6,
+      "temp_min": 20.1,
       "pioggia_mm": 0.0,
       "wmo_code": 1
     }
@@ -79,22 +79,22 @@
     {
       "label": "Oggi",
       "icona": "☁️",
-      "temp_max": 27.0,
+      "temp_max": 25.1,
       "pioggia_mm": 0.0
     },
     {
       "label": "Domani",
       "icona": "☁️",
-      "temp_max": 24.2,
+      "temp_max": 31.2,
       "pioggia_mm": 0.0
     },
     {
-      "label": "Sat",
+      "label": "Sun",
       "icona": "☁️",
-      "temp_max": 30.5,
-      "pioggia_mm": 0.0
+      "temp_max": 27.2,
+      "pioggia_mm": 0.3
     }
   ],
-  "pioggia_7gg": 0.7,
-  "temp_media_7gg": 21.9
+  "pioggia_7gg": 0.3,
+  "temp_media_7gg": 23.2
 }
