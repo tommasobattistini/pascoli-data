@@ -105,4 +105,5 @@ date,rain_mm,temp_c,days_from_start,campo,anno,source
 2026-08-07,0.7999999999999999,26.25,,pascolo_6,2026,open-meteo-archive
 2026-08-08,0.7,25.5,,pascolo_6,2026,open-meteo-archive
 2026-08-09,0.1,26.65,,pascolo_6,2026,open-meteo-archive
-2026-08-10,0.4,27.400000000000002,,pascolo_6,2026,open-meteo-archive
+2026-08-10,0.4,27.4,,pascolo_6,2026,open-meteo-archive
+2026-08-11,0.3,26.76666666666667,,pascolo_6,2026,open-meteo-archive
