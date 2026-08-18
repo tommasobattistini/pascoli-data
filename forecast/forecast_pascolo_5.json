@@ -2,35 +2,25 @@
   "campo": "pascolo_5",
   "lat": 43.853707,
   "lon": 12.19744,
-  "aggiornato": "2026-08-17",
+  "aggiornato": "2026-08-18",
   "giorni": [
     {
-      "data": "2026-08-17",
+      "data": "2026-08-18",
       "label": "Oggi",
       "icona": "☁️",
       "descrizione": "coperto",
-      "temp_max": 30.1,
-      "temp_min": 18.0,
-      "pioggia_mm": 0.0,
-      "wmo_code": 3
-    },
-    {
-      "data": "2026-08-18",
-      "label": "Domani",
-      "icona": "☁️",
-      "descrizione": "coperto",
-      "temp_max": 29.7,
-      "temp_min": 18.0,
+      "temp_max": 29.1,
+      "temp_min": 18.2,
       "pioggia_mm": 0.0,
       "wmo_code": 3
     },
     {
       "data": "2026-08-19",
-      "label": "Wed",
+      "label": "Domani",
       "icona": "☁️",
       "descrizione": "coperto",
       "temp_max": 34.0,
-      "temp_min": 18.4,
+      "temp_min": 19.7,
       "pioggia_mm": 0.0,
       "wmo_code": 3
     },
@@ -73,28 +63,38 @@
       "temp_min": 17.8,
       "pioggia_mm": 0.0,
       "wmo_code": 1
+    },
+    {
+      "data": "2026-08-24",
+      "label": "Mon",
+      "icona": "🌧",
+      "descrizione": "pioggia leggera",
+      "temp_max": 29.1,
+      "temp_min": 20.2,
+      "pioggia_mm": 3.6,
+      "wmo_code": 61
     }
   ],
   "prossimi_3gg": [
     {
       "label": "Oggi",
       "icona": "☁️",
-      "temp_max": 30.1,
+      "temp_max": 29.1,
       "pioggia_mm": 0.0
     },
     {
       "label": "Domani",
       "icona": "☁️",
-      "temp_max": 29.7,
+      "temp_max": 34.0,
       "pioggia_mm": 0.0
     },
     {
-      "label": "Wed",
+      "label": "Thu",
       "icona": "☁️",
-      "temp_max": 34.0,
-      "pioggia_mm": 0.0
+      "temp_max": 32.0,
+      "pioggia_mm": 0.6
     }
   ],
-  "pioggia_7gg": 0.9,
-  "temp_media_7gg": 24.7
+  "pioggia_7gg": 4.5,
+  "temp_media_7gg": 24.8
 }
