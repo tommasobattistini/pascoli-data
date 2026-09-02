@@ -83,3 +83,5 @@ date,mean_ndvi,mean_ndwi,delta_abs_ndvi,delta_abs_ndwi,campo,anno,source,ndvi_lo
 2026-08-19,0.3185,,,,pascolo_1,2026,sentinel-1-conformal,0.2185,0.4185,high
 2026-08-20,0.3518861569157408,-0.0670071205526471,,,pascolo_1,2026,sentinel-2,,,
 2026-08-24,0.3358,,,,pascolo_1,2026,sentinel-1-conformal,0.2359,0.4358,high
+2026-08-25,0.4171037665138414,-0.0546436143138482,,,pascolo_1,2026,sentinel-2,,,
+2026-08-29,0.3281,,,,pascolo_1,2026,sentinel-1-conformal,0.2281,0.428,high
