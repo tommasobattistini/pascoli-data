@@ -2,35 +2,25 @@
   "campo": "bianchi_campo",
   "lat": 43.704728,
   "lon": 12.19271,
-  "aggiornato": "2026-09-18",
+  "aggiornato": "2026-09-19",
   "giorni": [
     {
-      "data": "2026-09-18",
-      "label": "Oggi",
-      "icona": "☁️",
-      "descrizione": "coperto",
-      "temp_max": 20.5,
-      "temp_min": 14.3,
-      "pioggia_mm": 0.0,
-      "wmo_code": 3
-    },
-    {
       "data": "2026-09-19",
-      "label": "Domani",
+      "label": "Oggi",
       "icona": "🌫",
       "descrizione": "nebbia",
-      "temp_max": 21.6,
-      "temp_min": 13.4,
+      "temp_max": 21.2,
+      "temp_min": 13.6,
       "pioggia_mm": 0.0,
       "wmo_code": 45
     },
     {
       "data": "2026-09-20",
-      "label": "Sun",
+      "label": "Domani",
       "icona": "🌫",
       "descrizione": "nebbia",
-      "temp_max": 23.9,
-      "temp_min": 12.4,
+      "temp_max": 23.7,
+      "temp_min": 12.5,
       "pioggia_mm": 0.0,
       "wmo_code": 45
     },
@@ -39,20 +29,20 @@
       "label": "Mon",
       "icona": "☁️",
       "descrizione": "coperto",
-      "temp_max": 25.0,
-      "temp_min": 14.5,
+      "temp_max": 24.4,
+      "temp_min": 13.2,
       "pioggia_mm": 0.0,
       "wmo_code": 3
     },
     {
       "data": "2026-09-22",
       "label": "Tue",
-      "icona": "⛅",
-      "descrizione": "parzialmente nuvoloso",
-      "temp_max": 19.8,
-      "temp_min": 11.4,
+      "icona": "🌫",
+      "descrizione": "nebbia",
+      "temp_max": 20.9,
+      "temp_min": 12.2,
       "pioggia_mm": 0.0,
-      "wmo_code": 2
+      "wmo_code": 45
     },
     {
       "data": "2026-09-23",
@@ -60,7 +50,7 @@
       "icona": "☁️",
       "descrizione": "coperto",
       "temp_max": 23.0,
-      "temp_min": 8.6,
+      "temp_min": 10.4,
       "pioggia_mm": 0.0,
       "wmo_code": 3
     },
@@ -69,32 +59,42 @@
       "label": "Thu",
       "icona": "🌦",
       "descrizione": "rovesci leggeri",
-      "temp_max": 18.1,
-      "temp_min": 13.2,
-      "pioggia_mm": 6.9,
+      "temp_max": 20.9,
+      "temp_min": 12.0,
+      "pioggia_mm": 2.1,
       "wmo_code": 80
+    },
+    {
+      "data": "2026-09-25",
+      "label": "Fri",
+      "icona": "⛅",
+      "descrizione": "parzialmente nuvoloso",
+      "temp_max": 19.3,
+      "temp_min": 11.1,
+      "pioggia_mm": 0.0,
+      "wmo_code": 2
     }
   ],
   "prossimi_3gg": [
     {
       "label": "Oggi",
-      "icona": "☁️",
-      "temp_max": 20.5,
+      "icona": "🌫",
+      "temp_max": 21.2,
       "pioggia_mm": 0.0
     },
     {
       "label": "Domani",
       "icona": "🌫",
-      "temp_max": 21.6,
+      "temp_max": 23.7,
       "pioggia_mm": 0.0
     },
     {
-      "label": "Sun",
-      "icona": "🌫",
-      "temp_max": 23.9,
+      "label": "Mon",
+      "icona": "☁️",
+      "temp_max": 24.4,
       "pioggia_mm": 0.0
     }
   ],
-  "pioggia_7gg": 6.9,
-  "temp_media_7gg": 17.1
+  "pioggia_7gg": 2.1,
+  "temp_media_7gg": 17.0
 }
