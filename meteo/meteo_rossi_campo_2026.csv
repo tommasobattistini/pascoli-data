@@ -167,4 +167,5 @@ date,rain_mm,temp_c,days_from_start,campo,anno,source
 2026-10-08,9.396362443112594,15.343289345189191,,rossi_campo,2026,era5
 2026-10-09,0.56154556364163,14.18330535888674,,rossi_campo,2026,era5
 2026-10-10,4.7,11.98,,rossi_campo,2026,open-meteo-archive
-2026-10-11,3.5,12.319999999999999,,rossi_campo,2026,open-meteo-archive
+2026-10-11,3.5,12.32,,rossi_campo,2026,open-meteo-archive
+2026-10-12,2.6,12.34,,rossi_campo,2026,open-meteo-archive
