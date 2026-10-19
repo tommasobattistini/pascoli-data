@@ -100,3 +100,4 @@ date,mean_ndvi,mean_ndwi,delta_abs_ndvi,delta_abs_ndwi,campo,anno,source,ndvi_lo
 2026-10-04,0.768390967915981,0.2056080287757898,,,bianchi_campo,2026,sentinel-2,,,
 2026-10-08,0.7598,,,,bianchi_campo,2026,sentinel-1-conformal,0.5771,0.9425,medium
 2026-10-09,0.7037568089754904,0.2824642119974312,,,bianchi_campo,2026,sentinel-2,,,
+2026-10-11,0.7628009036461446,0.26046090238519154,,,bianchi_campo,2026,sentinel-2,,,
