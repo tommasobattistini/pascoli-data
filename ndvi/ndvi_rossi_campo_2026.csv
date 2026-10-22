@@ -101,4 +101,5 @@ date,mean_ndvi,mean_ndwi,delta_abs_ndvi,delta_abs_ndwi,campo,anno,source,ndvi_lo
 2026-10-08,0.5611,,,,rossi_campo,2026,sentinel-1-conformal,0.3784,0.7438,medium
 2026-10-09,0.4715,,,,rossi_campo,2026,sentinel-1-conformal-imputed,0.2888,0.6542,medium
 2026-10-11,0.6470041789770403,0.0767182663551318,,,rossi_campo,2026,sentinel-2,,,
-2026-10-13,0.6737636735223419,0.08748519458922607,,,rossi_campo,2026,sentinel-2,,,
+2026-10-13,0.6737636735223419,0.087485194589226,,,rossi_campo,2026,sentinel-2,,,
+2026-10-18,0.5807,,,,rossi_campo,2026,sentinel-1-conformal,0.398,0.7634,medium
