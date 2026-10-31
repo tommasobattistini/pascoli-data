@@ -19,9 +19,9 @@
       "label": "Domani",
       "icona": "🌦",
       "descrizione": "rovesci leggeri",
-      "temp_max": 6.5,
-      "temp_min": 3.9,
-      "pioggia_mm": 25.8,
+      "temp_max": 6.7,
+      "temp_min": 4.5,
+      "pioggia_mm": 20.3,
       "wmo_code": 80
     },
     {
@@ -85,8 +85,8 @@
     {
       "label": "Domani",
       "icona": "🌦",
-      "temp_max": 6.5,
-      "pioggia_mm": 25.8
+      "temp_max": 6.7,
+      "pioggia_mm": 20.3
     },
     {
       "label": "Mon",
@@ -95,6 +95,6 @@
       "pioggia_mm": 2.0
     }
   ],
-  "pioggia_7gg": 27.8,
+  "pioggia_7gg": 22.3,
   "temp_media_7gg": 7.2
 }

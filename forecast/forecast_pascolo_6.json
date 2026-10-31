@@ -19,9 +19,9 @@
       "label": "Domani",
       "icona": "⛈",
       "descrizione": "temporale",
-      "temp_max": 9.2,
-      "temp_min": 4.4,
-      "pioggia_mm": 21.1,
+      "temp_max": 9.1,
+      "temp_min": 5.6,
+      "pioggia_mm": 16.1,
       "wmo_code": 95
     },
     {
@@ -85,8 +85,8 @@
     {
       "label": "Domani",
       "icona": "⛈",
-      "temp_max": 9.2,
-      "pioggia_mm": 21.1
+      "temp_max": 9.1,
+      "pioggia_mm": 16.1
     },
     {
       "label": "Mon",
@@ -95,6 +95,6 @@
       "pioggia_mm": 1.5
     }
   ],
-  "pioggia_7gg": 26.3,
-  "temp_media_7gg": 8.1
+  "pioggia_7gg": 21.3,
+  "temp_media_7gg": 8.2
 }

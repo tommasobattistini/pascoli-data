@@ -1,0 +1,74 @@
+{
+ "field_id": "pascolo_1",
+ "can_detect_grazing": true,
+ "events": [
+  {
+   "field_id": "pascolo_1",
+   "type": "grazing",
+   "label": "Pressione di pascolo",
+   "date_from": "2022-05-23",
+   "date_to": "2022-05-25",
+   "end_from": "2022-08-16",
+   "end_to": "2022-08-21",
+   "rel_before": 0.057,
+   "rel_after": -0.074,
+   "rel_drop": 0.131,
+   "confidence": "alta",
+   "text": "Inizio intorno al 25 mag, fine probabile intorno al 21 ago."
+  },
+  {
+   "field_id": "pascolo_1",
+   "type": "grazing",
+   "label": "Pressione di pascolo",
+   "date_from": "2023-05-28",
+   "date_to": "2023-06-02",
+   "end_from": "2023-08-23",
+   "end_to": "2023-08-26",
+   "rel_before": 0.047,
+   "rel_after": -0.104,
+   "rel_drop": 0.151,
+   "confidence": "alta",
+   "text": "Inizio intorno al 2 giu, fine probabile intorno al 26 ago."
+  },
+  {
+   "field_id": "pascolo_1",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2024-11-25",
+   "date_to": "2024-12-05",
+   "ndvi_before": 0.854,
+   "ndvi_after": 0.649,
+   "rel_drop": 0.152,
+   "confidence": "media",
+   "text": "Tra il 25 nov e il 5 dic: vegetazione da 0.85 a 0.65."
+  },
+  {
+   "field_id": "pascolo_1",
+   "type": "grazing",
+   "label": "Pressione di pascolo",
+   "date_from": "2025-05-02",
+   "date_to": "2025-05-04",
+   "end_from": "2025-08-27",
+   "end_to": "2025-09-01",
+   "rel_before": 0.036,
+   "rel_after": -0.049,
+   "rel_drop": 0.086,
+   "confidence": "media",
+   "text": "Inizio intorno al 4 mag, fine probabile intorno al 1 set."
+  },
+  {
+   "field_id": "pascolo_1",
+   "type": "grazing",
+   "label": "Pressione di pascolo",
+   "date_from": "2026-05-09",
+   "date_to": "2026-05-19",
+   "end_from": null,
+   "end_to": null,
+   "rel_before": 0.043,
+   "rel_after": -0.057,
+   "rel_drop": 0.1,
+   "confidence": "media",
+   "text": "Inizio tra il 9 mag e il 19 mag."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "field_id": "pascolo_3",
+ "can_detect_grazing": true,
+ "events": [
+  {
+   "field_id": "pascolo_3",
+   "type": "grazing",
+   "label": "Pressione di pascolo",
+   "date_from": "2025-04-04",
+   "date_to": "2025-04-07",
+   "end_from": "2025-05-04",
+   "end_to": "2025-05-12",
+   "rel_before": -0.029,
+   "rel_after": -0.211,
+   "rel_drop": 0.182,
+   "confidence": "alta",
+   "text": "Inizio intorno al 7 apr, fine probabile tra il 4 mag e il 12 mag."
+  }
+ ]
+}

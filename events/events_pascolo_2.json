@@ -1,0 +1,34 @@
+{
+ "field_id": "pascolo_2",
+ "can_detect_grazing": true,
+ "events": [
+  {
+   "field_id": "pascolo_2",
+   "type": "grazing",
+   "label": "Pressione di pascolo",
+   "date_from": "2023-08-26",
+   "date_to": "2023-09-02",
+   "end_from": null,
+   "end_to": null,
+   "rel_before": 0.075,
+   "rel_after": -0.024,
+   "rel_drop": 0.098,
+   "confidence": "media",
+   "text": "Inizio tra il 26 ago e il 2 set."
+  },
+  {
+   "field_id": "pascolo_2",
+   "type": "grazing",
+   "label": "Pressione di pascolo",
+   "date_from": "2026-05-02",
+   "date_to": "2026-05-09",
+   "end_from": "2026-06-13",
+   "end_to": "2026-06-15",
+   "rel_before": -0.007,
+   "rel_after": -0.114,
+   "rel_drop": 0.107,
+   "confidence": "media",
+   "text": "Inizio tra il 2 mag e il 9 mag, fine probabile intorno al 15 giu."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "field_id": "bianchi_campo",
+ "can_detect_grazing": false,
+ "events": [
+  {
+   "field_id": "bianchi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2022-06-19",
+   "date_to": "2022-06-27",
+   "ndvi_before": 0.695,
+   "ndvi_after": 0.427,
+   "rel_drop": 0.268,
+   "confidence": "alta",
+   "text": "Tra il 19 giu e il 27 giu: vegetazione da 0.69 a 0.43."
+  },
+  {
+   "field_id": "bianchi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2024-06-16",
+   "date_to": "2024-06-18",
+   "ndvi_before": 0.722,
+   "ndvi_after": 0.318,
+   "rel_drop": 0.403,
+   "confidence": "alta",
+   "text": "Intorno al 18 giu: vegetazione da 0.72 a 0.32."
+  },
+  {
+   "field_id": "bianchi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2024-06-28",
+   "date_to": "2024-07-01",
+   "ndvi_before": 0.667,
+   "ndvi_after": 0.479,
+   "rel_drop": 0.188,
+   "confidence": "media",
+   "text": "Intorno al 1 lug: vegetazione da 0.67 a 0.48."
+  },
+  {
+   "field_id": "bianchi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2026-06-16",
+   "date_to": "2026-06-21",
+   "ndvi_before": 0.756,
+   "ndvi_after": 0.391,
+   "rel_drop": 0.366,
+   "confidence": "alta",
+   "text": "Intorno al 21 giu: vegetazione da 0.76 a 0.39."
+  }
+ ]
+}

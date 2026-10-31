@@ -1,0 +1,102 @@
+{
+ "field_id": "rossi_campo",
+ "can_detect_grazing": false,
+ "events": [
+  {
+   "field_id": "rossi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2022-11-06",
+   "date_to": "2022-11-11",
+   "ndvi_before": 0.761,
+   "ndvi_after": 0.378,
+   "rel_drop": 0.383,
+   "confidence": "alta",
+   "text": "Intorno al 11 nov: vegetazione da 0.76 a 0.38."
+  },
+  {
+   "field_id": "rossi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2023-01-10",
+   "date_to": "2023-01-30",
+   "ndvi_before": 0.708,
+   "ndvi_after": 0.23,
+   "rel_drop": 0.478,
+   "confidence": "alta",
+   "text": "Tra il 10 gen e il 30 gen: vegetazione da 0.71 a 0.23."
+  },
+  {
+   "field_id": "rossi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2023-04-20",
+   "date_to": "2023-04-23",
+   "ndvi_before": 0.795,
+   "ndvi_after": 0.536,
+   "rel_drop": 0.259,
+   "confidence": "alta",
+   "text": "Intorno al 23 apr: vegetazione da 0.80 a 0.54."
+  },
+  {
+   "field_id": "rossi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2023-06-17",
+   "date_to": "2023-06-19",
+   "ndvi_before": 0.823,
+   "ndvi_after": 0.209,
+   "rel_drop": 0.614,
+   "confidence": "alta",
+   "text": "Intorno al 19 giu: vegetazione da 0.82 a 0.21."
+  },
+  {
+   "field_id": "rossi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2024-02-17",
+   "date_to": "2024-02-19",
+   "ndvi_before": 0.686,
+   "ndvi_after": 0.402,
+   "rel_drop": 0.284,
+   "confidence": "alta",
+   "text": "Intorno al 19 feb: vegetazione da 0.69 a 0.40."
+  },
+  {
+   "field_id": "rossi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2024-06-06",
+   "date_to": "2024-06-11",
+   "ndvi_before": 0.825,
+   "ndvi_after": 0.57,
+   "rel_drop": 0.255,
+   "confidence": "alta",
+   "text": "Intorno al 11 giu: vegetazione da 0.82 a 0.57."
+  },
+  {
+   "field_id": "rossi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2025-05-24",
+   "date_to": "2025-05-31",
+   "ndvi_before": 0.868,
+   "ndvi_after": 0.634,
+   "rel_drop": 0.234,
+   "confidence": "media",
+   "text": "Tra il 24 mag e il 31 mag: vegetazione da 0.87 a 0.63."
+  },
+  {
+   "field_id": "rossi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2026-05-22",
+   "date_to": "2026-06-13",
+   "ndvi_before": 0.851,
+   "ndvi_after": 0.439,
+   "rel_drop": 0.413,
+   "confidence": "alta",
+   "text": "Tra il 22 mag e il 13 giu: vegetazione da 0.85 a 0.44."
+  }
+ ]
+}

@@ -10,7 +10,7 @@
       "icona": "🌦",
       "descrizione": "rovesci leggeri",
       "temp_max": 11.6,
-      "temp_min": 5.7,
+      "temp_min": 5.6,
       "pioggia_mm": 4.6,
       "wmo_code": 80
     },
@@ -18,11 +18,11 @@
       "data": "2026-11-01",
       "label": "Domani",
       "icona": "⛈",
-      "descrizione": "temporale con grandine",
-      "temp_max": 8.4,
-      "temp_min": 3.3,
-      "pioggia_mm": 31.4,
-      "wmo_code": 96
+      "descrizione": "temporale",
+      "temp_max": 8.7,
+      "temp_min": 5.0,
+      "pioggia_mm": 20.1,
+      "wmo_code": 95
     },
     {
       "data": "2026-11-02",
@@ -85,8 +85,8 @@
     {
       "label": "Domani",
       "icona": "⛈",
-      "temp_max": 8.4,
-      "pioggia_mm": 31.4
+      "temp_max": 8.7,
+      "pioggia_mm": 20.1
     },
     {
       "label": "Mon",
@@ -95,6 +95,6 @@
       "pioggia_mm": 2.0
     }
   ],
-  "pioggia_7gg": 38.0,
-  "temp_media_7gg": 7.7
+  "pioggia_7gg": 26.7,
+  "temp_media_7gg": 7.8
 }

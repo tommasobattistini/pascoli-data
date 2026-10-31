@@ -1,0 +1,66 @@
+{
+ "field_id": "pascolo_4",
+ "can_detect_grazing": false,
+ "events": [
+  {
+   "field_id": "pascolo_4",
+   "type": "cut",
+   "label": "Sfalcio o lavorazione del terreno",
+   "date_from": "2022-05-23",
+   "date_to": "2022-06-02",
+   "ndvi_before": 0.786,
+   "ndvi_after": 0.565,
+   "rel_drop": 0.159,
+   "confidence": "media",
+   "text": "Tra il 23 mag e il 2 giu: vegetazione da 0.79 a 0.56."
+  },
+  {
+   "field_id": "pascolo_4",
+   "type": "cut",
+   "label": "Sfalcio o lavorazione del terreno",
+   "date_from": "2024-06-06",
+   "date_to": "2024-06-11",
+   "ndvi_before": 0.554,
+   "ndvi_after": 0.291,
+   "rel_drop": 0.263,
+   "confidence": "alta",
+   "text": "Intorno al 11 giu: vegetazione da 0.55 a 0.29."
+  },
+  {
+   "field_id": "pascolo_4",
+   "type": "cut",
+   "label": "Sfalcio o lavorazione del terreno",
+   "date_from": "2025-06-03",
+   "date_to": "2025-06-08",
+   "ndvi_before": 0.726,
+   "ndvi_after": 0.519,
+   "rel_drop": 0.198,
+   "confidence": "media",
+   "text": "Intorno al 8 giu: vegetazione da 0.73 a 0.52."
+  },
+  {
+   "field_id": "pascolo_4",
+   "type": "cut",
+   "label": "Sfalcio o lavorazione del terreno",
+   "date_from": "2026-04-09",
+   "date_to": "2026-04-17",
+   "ndvi_before": 0.608,
+   "ndvi_after": 0.264,
+   "rel_drop": 0.344,
+   "confidence": "alta",
+   "text": "Tra il 9 apr e il 17 apr: vegetazione da 0.61 a 0.26."
+  },
+  {
+   "field_id": "pascolo_4",
+   "type": "cut",
+   "label": "Sfalcio o lavorazione del terreno",
+   "date_from": "2026-07-26",
+   "date_to": "2026-07-31",
+   "ndvi_before": 0.684,
+   "ndvi_after": 0.361,
+   "rel_drop": 0.296,
+   "confidence": "alta",
+   "text": "Intorno al 31 lug: vegetazione da 0.68 a 0.36."
+  }
+ ]
+}

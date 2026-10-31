@@ -17,12 +17,12 @@
     {
       "data": "2026-11-01",
       "label": "Domani",
-      "icona": "🌧",
-      "descrizione": "rovesci",
-      "temp_max": 6.1,
-      "temp_min": 2.7,
-      "pioggia_mm": 27.7,
-      "wmo_code": 81
+      "icona": "🌦",
+      "descrizione": "rovesci leggeri",
+      "temp_max": 6.2,
+      "temp_min": 3.6,
+      "pioggia_mm": 19.9,
+      "wmo_code": 80
     },
     {
       "data": "2026-11-02",
@@ -84,9 +84,9 @@
     },
     {
       "label": "Domani",
-      "icona": "🌧",
-      "temp_max": 6.1,
-      "pioggia_mm": 27.7
+      "icona": "🌦",
+      "temp_max": 6.2,
+      "pioggia_mm": 19.9
     },
     {
       "label": "Mon",
@@ -95,6 +95,6 @@
       "pioggia_mm": 0.8
     }
   ],
-  "pioggia_7gg": 28.5,
+  "pioggia_7gg": 20.7,
   "temp_media_7gg": 6.9
 }
