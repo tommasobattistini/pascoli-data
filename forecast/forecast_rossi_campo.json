@@ -9,7 +9,7 @@
       "label": "Oggi",
       "icona": "🌦",
       "descrizione": "rovesci leggeri",
-      "temp_max": 10.5,
+      "temp_max": 10.8,
       "temp_min": 6.1,
       "pioggia_mm": 0.0,
       "wmo_code": 80
@@ -20,8 +20,8 @@
       "icona": "🌧",
       "descrizione": "rovesci",
       "temp_max": 6.1,
-      "temp_min": 3.7,
-      "pioggia_mm": 12.4,
+      "temp_min": 2.7,
+      "pioggia_mm": 27.7,
       "wmo_code": 81
     },
     {
@@ -29,72 +29,72 @@
       "label": "Mon",
       "icona": "🌦",
       "descrizione": "rovesci leggeri",
-      "temp_max": 7.3,
-      "temp_min": 4.4,
-      "pioggia_mm": 4.6,
+      "temp_max": 7.6,
+      "temp_min": 4.2,
+      "pioggia_mm": 0.8,
       "wmo_code": 80
     },
     {
       "data": "2026-11-03",
       "label": "Tue",
-      "icona": "⛅",
-      "descrizione": "parzialmente nuvoloso",
-      "temp_max": 8.7,
-      "temp_min": 5.5,
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 8.4,
+      "temp_min": 5.6,
       "pioggia_mm": 0.0,
-      "wmo_code": 2
+      "wmo_code": 3
     },
     {
       "data": "2026-11-04",
       "label": "Wed",
       "icona": "☁️",
       "descrizione": "coperto",
-      "temp_max": 9.6,
-      "temp_min": 5.0,
+      "temp_max": 10.2,
+      "temp_min": 6.0,
       "pioggia_mm": 0.0,
       "wmo_code": 3
     },
     {
       "data": "2026-11-05",
       "label": "Thu",
-      "icona": "🌧",
-      "descrizione": "pioggia leggera",
-      "temp_max": 10.0,
-      "temp_min": 4.8,
-      "pioggia_mm": 0.4,
-      "wmo_code": 61
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 9.7,
+      "temp_min": 5.5,
+      "pioggia_mm": 0.0,
+      "wmo_code": 3
     },
     {
       "data": "2026-11-06",
       "label": "Fri",
-      "icona": "🌧",
-      "descrizione": "pioggia leggera",
-      "temp_max": 8.2,
-      "temp_min": 6.3,
-      "pioggia_mm": 15.2,
-      "wmo_code": 61
+      "icona": "☁️",
+      "descrizione": "coperto",
+      "temp_max": 9.7,
+      "temp_min": 3.6,
+      "pioggia_mm": 0.0,
+      "wmo_code": 3
     }
   ],
   "prossimi_3gg": [
     {
       "label": "Oggi",
       "icona": "🌦",
-      "temp_max": 10.5,
+      "temp_max": 10.8,
       "pioggia_mm": 0.0
     },
     {
       "label": "Domani",
       "icona": "🌧",
       "temp_max": 6.1,
-      "pioggia_mm": 12.4
+      "pioggia_mm": 27.7
     },
     {
       "label": "Mon",
       "icona": "🌦",
-      "temp_max": 7.3,
-      "pioggia_mm": 4.6
+      "temp_max": 7.6,
+      "pioggia_mm": 0.8
     }
   ],
-  "pioggia_7gg": 32.6,
+  "pioggia_7gg": 28.5,
   "temp_media_7gg": 6.9
 }
