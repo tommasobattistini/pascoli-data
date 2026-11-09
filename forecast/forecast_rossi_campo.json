@@ -9,9 +9,9 @@
       "label": "Oggi",
       "icona": "🌦",
       "descrizione": "rovesci leggeri",
-      "temp_max": 10.7,
+      "temp_max": 10.3,
       "temp_min": 6.6,
-      "pioggia_mm": 4.0,
+      "pioggia_mm": 4.9,
       "wmo_code": 80
     },
     {
@@ -19,9 +19,9 @@
       "label": "Domani",
       "icona": "🌦",
       "descrizione": "rovesci leggeri",
-      "temp_max": 12.1,
+      "temp_max": 12.0,
       "temp_min": 9.8,
-      "pioggia_mm": 4.2,
+      "pioggia_mm": 7.8,
       "wmo_code": 80
     },
     {
@@ -30,7 +30,7 @@
       "icona": "🌦",
       "descrizione": "rovesci leggeri",
       "temp_max": 13.4,
-      "temp_min": 11.8,
+      "temp_min": 11.7,
       "pioggia_mm": 7.7,
       "wmo_code": 80
     },
@@ -79,14 +79,14 @@
     {
       "label": "Oggi",
       "icona": "🌦",
-      "temp_max": 10.7,
-      "pioggia_mm": 4.0
+      "temp_max": 10.3,
+      "pioggia_mm": 4.9
     },
     {
       "label": "Domani",
       "icona": "🌦",
-      "temp_max": 12.1,
-      "pioggia_mm": 4.2
+      "temp_max": 12.0,
+      "pioggia_mm": 7.8
     },
     {
       "label": "Wed",
@@ -95,6 +95,6 @@
       "pioggia_mm": 7.7
     }
   ],
-  "pioggia_7gg": 89.6,
+  "pioggia_7gg": 94.1,
   "temp_media_7gg": 9.5
 }
