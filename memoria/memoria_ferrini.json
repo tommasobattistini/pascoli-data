@@ -1,0 +1,299 @@
+{
+ "cliente": "ferrini",
+ "year": 2026,
+ "season": {
+  "start": "2026-04-01",
+  "end": "2026-10-31",
+  "last_data": "2026-10-19"
+ },
+ "good_threshold": 0.6,
+ "good_days": {
+  "2022": 94,
+  "2023": 115,
+  "2024": 137,
+  "2025": 166,
+  "2026": 86
+ },
+ "season_mean": {
+  "2022": 0.564,
+  "2023": 0.612,
+  "2024": 0.661,
+  "2025": 0.687,
+  "2026": 0.59
+ },
+ "meteo": {
+  "temp": {
+   "4": {
+    "value": 12.5,
+    "avg": 11.3
+   },
+   "5": {
+    "value": 17.1,
+    "avg": 16.2
+   },
+   "6": {
+    "value": 22.8,
+    "avg": 21.8
+   },
+   "7": {
+    "value": 23.9,
+    "avg": 23.9
+   },
+   "8": {
+    "value": 24.8,
+    "avg": 22.8
+   },
+   "9": {
+    "value": 19.8,
+    "avg": 18.3
+   },
+   "10": {
+    "value": 13.7,
+    "avg": 15.1
+   }
+  },
+  "rain": {
+   "4": null,
+   "5": null,
+   "6": null,
+   "7": null,
+   "8": null,
+   "9": null,
+   "10": null
+  }
+ },
+ "meteo_field": "pascolo_1",
+ "fields": {
+  "pascolo_1": {
+   "season_mean": 0.582,
+   "hist_mean": 0.603,
+   "rel_end": 0.034,
+   "crop": false,
+   "rel_july": -0.035
+  },
+  "pascolo_2": {
+   "season_mean": 0.605,
+   "hist_mean": 0.649,
+   "rel_end": 0.026,
+   "crop": false,
+   "rel_july": 0.06
+  },
+  "pascolo_3": {
+   "season_mean": 0.558,
+   "hist_mean": 0.599,
+   "rel_end": -0.031,
+   "crop": false,
+   "rel_july": -0.01
+  },
+  "pascolo_4": {
+   "season_mean": 0.435,
+   "hist_mean": 0.447,
+   "rel_end": null,
+   "crop": true
+  },
+  "pascolo_5": {
+   "season_mean": 0.547,
+   "hist_mean": 0.534,
+   "rel_end": -0.093,
+   "crop": false,
+   "rel_july": -0.098
+  },
+  "pascolo_6": {
+   "season_mean": 0.65,
+   "hist_mean": 0.676,
+   "rel_end": 0.062,
+   "crop": false,
+   "rel_july": 0.238
+  }
+ },
+ "curve": {
+  "cur": [
+   0.807,
+   0.803,
+   0.82,
+   0.847,
+   0.859,
+   0.843,
+   0.644,
+   0.77,
+   0.718,
+   0.665,
+   0.613,
+   0.59,
+   0.558,
+   0.492,
+   0.478,
+   0.44,
+   0.478,
+   0.451,
+   0.401,
+   0.356,
+   0.403,
+   0.423,
+   0.392,
+   0.455,
+   0.54,
+   0.625,
+   0.577,
+   0.538,
+   0.679
+  ],
+  "med": [
+   0.811,
+   0.821,
+   0.812,
+   0.789,
+   0.801,
+   0.781,
+   0.756,
+   0.741,
+   0.628,
+   0.597,
+   0.509,
+   0.514,
+   0.583,
+   0.595,
+   0.608,
+   0.564,
+   0.533,
+   0.468,
+   0.461,
+   0.445,
+   0.452,
+   0.466,
+   0.601,
+   0.694,
+   0.672,
+   0.727,
+   0.763,
+   0.707,
+   0.727,
+   0.752,
+   0.811
+  ],
+  "min": [
+   0.741,
+   0.765,
+   0.771,
+   0.692,
+   0.777,
+   0.777,
+   0.554,
+   0.659,
+   0.418,
+   0.524,
+   0.441,
+   0.481,
+   0.502,
+   0.384,
+   0.37,
+   0.341,
+   0.32,
+   0.345,
+   0.351,
+   0.365,
+   0.411,
+   0.262,
+   0.49,
+   0.526,
+   0.384,
+   0.571,
+   0.738,
+   0.639,
+   0.679,
+   0.543,
+   0.699
+  ],
+  "max": [
+   0.843,
+   0.849,
+   0.843,
+   0.816,
+   0.806,
+   0.785,
+   0.768,
+   0.754,
+   0.725,
+   0.671,
+   0.621,
+   0.568,
+   0.626,
+   0.655,
+   0.648,
+   0.602,
+   0.565,
+   0.609,
+   0.669,
+   0.65,
+   0.567,
+   0.715,
+   0.678,
+   0.769,
+   0.784,
+   0.787,
+   0.801,
+   0.815,
+   0.845,
+   0.832,
+   0.831
+  ],
+  "years": [
+   2022,
+   2025
+  ]
+ },
+ "peak": {
+  "date": "2026-04-27",
+  "month": "aprile",
+  "value": 0.85,
+  "record": false,
+  "since": 2022
+ },
+ "low": {
+  "date": "2026-08-12",
+  "value": 0.36,
+  "hist_min": 0.22,
+  "hist_min_year": 2022
+ },
+ "recovery": "2026-09-27",
+ "story": "La stagione è partita <em>alla grande</em>: in primavera i pascoli erano i più verdi degli ultimi 5 anni. Poi un'<b>estate dura</b>: da luglio l'erba è scesa sotto la media, fino al punto più basso del 12 agosto. L'autunno ha recuperato, ma meno degli anni scorsi.",
+ "sat_events": [
+  {
+   "field_id": "pascolo_4",
+   "date_from": "2026-04-09",
+   "date_to": "2026-04-17",
+   "ndvi_before": 0.608,
+   "ndvi_after": 0.264
+  },
+  {
+   "field_id": "pascolo_4",
+   "date_from": "2026-07-26",
+   "date_to": "2026-07-31",
+   "ndvi_before": 0.684,
+   "ndvi_after": 0.361
+  }
+ ],
+ "tips": [
+  {
+   "icon": "🌿",
+   "field_id": "pascolo_6",
+   "kind": "summer_reserve",
+   "title": "{name} è la tua riserva estiva.",
+   "text": "A luglio era il più verde di tutti: tenerlo libero per i mesi secchi può valere più che usarlo a maggio."
+  },
+  {
+   "icon": "⏳",
+   "field_id": "pascolo_5",
+   "kind": "needs_rest",
+   "title": "{name} ha bisogno di più riposo.",
+   "text": "A fine stagione era ancora il meno verde dei pascoli: valuta di caricarlo meno o di farlo riposare più a lungo."
+  },
+  {
+   "icon": "🗺️",
+   "field_id": "pascolo_1",
+   "kind": "zone",
+   "title": "In {name} la parte nord resta meno verde da due stagioni.",
+   "text": "Vale una verifica: acqua, sale o un passaggio abituale della mandria."
+  }
+ ]
+}
