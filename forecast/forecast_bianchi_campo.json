@@ -11,7 +11,7 @@
       "descrizione": "rovesci leggeri",
       "temp_max": 12.3,
       "temp_min": 7.8,
-      "pioggia_mm": 5.9,
+      "pioggia_mm": 3.9,
       "wmo_code": 80
     },
     {
@@ -20,8 +20,8 @@
       "icona": "🌦",
       "descrizione": "rovesci leggeri",
       "temp_max": 13.8,
-      "temp_min": 11.2,
-      "pioggia_mm": 10.7,
+      "temp_min": 11.3,
+      "pioggia_mm": 4.1,
       "wmo_code": 80
     },
     {
@@ -29,39 +29,39 @@
       "label": "Wed",
       "icona": "🌧",
       "descrizione": "pioggia leggera",
-      "temp_max": 15.6,
+      "temp_max": 15.5,
       "temp_min": 13.1,
-      "pioggia_mm": 2.2,
+      "pioggia_mm": 10.4,
       "wmo_code": 61
     },
     {
       "data": "2026-11-12",
       "label": "Thu",
-      "icona": "⛈",
-      "descrizione": "temporale",
-      "temp_max": 15.6,
-      "temp_min": 14.2,
-      "pioggia_mm": 36.7,
-      "wmo_code": 95
+      "icona": "🌧",
+      "descrizione": "pioggia",
+      "temp_max": 15.5,
+      "temp_min": 14.4,
+      "pioggia_mm": 28.7,
+      "wmo_code": 63
     },
     {
       "data": "2026-11-13",
       "label": "Fri",
-      "icona": "⛈",
-      "descrizione": "temporale",
-      "temp_max": 15.6,
-      "temp_min": 8.6,
-      "pioggia_mm": 5.9,
-      "wmo_code": 95
+      "icona": "🌧",
+      "descrizione": "pioggia leggera",
+      "temp_max": 15.7,
+      "temp_min": 9.4,
+      "pioggia_mm": 2.0,
+      "wmo_code": 61
     },
     {
       "data": "2026-11-14",
       "label": "Sat",
       "icona": "🌧",
       "descrizione": "pioggia leggera",
-      "temp_max": 8.6,
+      "temp_max": 9.4,
       "temp_min": 1.7,
-      "pioggia_mm": 1.4,
+      "pioggia_mm": 2.0,
       "wmo_code": 61
     },
     {
@@ -80,21 +80,21 @@
       "label": "Oggi",
       "icona": "🌦",
       "temp_max": 12.3,
-      "pioggia_mm": 5.9
+      "pioggia_mm": 3.9
     },
     {
       "label": "Domani",
       "icona": "🌦",
       "temp_max": 13.8,
-      "pioggia_mm": 10.7
+      "pioggia_mm": 4.1
     },
     {
       "label": "Wed",
       "icona": "🌧",
-      "temp_max": 15.6,
-      "pioggia_mm": 2.2
+      "temp_max": 15.5,
+      "pioggia_mm": 10.4
     }
   ],
-  "pioggia_7gg": 62.8,
-  "temp_media_7gg": 10.6
+  "pioggia_7gg": 51.1,
+  "temp_media_7gg": 10.7
 }

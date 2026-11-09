@@ -23,8 +23,7 @@ pascolo_5,abrupt_drop,Calo improvviso della vegetazione,2025-05-24,2025-05-31,,,
 pascolo_5,grazing,Pressione di pascolo,2025-06-10,2025-06-11,2025-07-08,2025-07-10,0.036,-0.221,0.258,alta,,
 pascolo_5,grazing,Pressione di pascolo,2026-05-22,2026-06-13,,,0.032,-0.094,0.126,alta,,
 pascolo_6,abrupt_drop,Calo improvviso della vegetazione,2022-06-27,2022-07-02,,,,,0.223,media,0.78,0.493
-pascolo_6,abrupt_drop,Calo improvviso della vegetazione,2022-08-23,2022-08-26,,,,,0.293,alta,0.522,0.209
-pascolo_6,grazing,Pressione di pascolo,2022-08-23,2022-08-26,,,0.246,0.043,0.203,alta,,
+pascolo_6,grazing,Pressione di pascolo,2022-08-28,2022-08-31,,,0.241,0.038,0.203,alta,,
 pascolo_6,grazing,Pressione di pascolo,2023-06-19,2023-06-22,2023-06-27,2023-06-29,0.158,0.046,0.112,media,,
 pascolo_6,abrupt_drop,Calo improvviso della vegetazione,2023-07-27,2023-08-03,,,,,0.166,media,0.682,0.445
 pascolo_6,grazing,Pressione di pascolo,2023-09-30,2023-10-02,,,0.203,0.019,0.185,alta,,

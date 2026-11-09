@@ -16,29 +16,17 @@
   },
   {
    "field_id": "pascolo_6",
-   "type": "abrupt_drop",
-   "label": "Calo improvviso della vegetazione",
-   "date_from": "2022-08-23",
-   "date_to": "2022-08-26",
-   "ndvi_before": 0.522,
-   "ndvi_after": 0.209,
-   "rel_drop": 0.293,
-   "confidence": "alta",
-   "text": "Intorno al 26 ago: vegetazione da 0.52 a 0.21."
-  },
-  {
-   "field_id": "pascolo_6",
    "type": "grazing",
    "label": "Pressione di pascolo",
-   "date_from": "2022-08-23",
-   "date_to": "2022-08-26",
+   "date_from": "2022-08-28",
+   "date_to": "2022-08-31",
    "end_from": null,
    "end_to": null,
-   "rel_before": 0.246,
-   "rel_after": 0.043,
+   "rel_before": 0.241,
+   "rel_after": 0.038,
    "rel_drop": 0.203,
    "confidence": "alta",
-   "text": "Inizio intorno al 26 ago."
+   "text": "Inizio intorno al 31 ago."
   },
   {
    "field_id": "pascolo_6",
