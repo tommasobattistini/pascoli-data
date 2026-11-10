@@ -1,2 +1,2 @@
 campo,generated_at,reference_date,date_forecast,horizon_days,days_in_future,mean_ndvi_forecast,ndvi_lower_90,ndvi_upper_90,conformal_margin,confidence,model_type,source
-pascolo_6,2026-11-09T17:01:22.171512+01:00,2026-11-02,2026-11-03,1,-6,0.7165,0.6089,0.8241,0.1076,high,persistence,forecast-v1.1-hybrid
+pascolo_6,2026-11-10T14:58:29.264282+01:00,2026-11-02,2026-11-03,1,-7,0.7165,0.6089,0.8241,0.1076,high,persistence,forecast-v1.1-hybrid
