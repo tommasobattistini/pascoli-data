@@ -43,3 +43,4 @@ date,days,rain_mm,temp_c,days_from_start,campo,anno,source
 2026-10-15,7,8.02759695860189,13.467357435680583,,bianchi_campo,2026,era5
 2026-10-22,7,9.78393453160109,10.447453071957568,,bianchi_campo,2026,era5
 2026-10-29,7,22.0,7.9142857142857155,,bianchi_campo,2026,open-meteo-archive
+2026-11-05,7,51.7,9.314285714285715,,bianchi_campo,2026,open-meteo-archive
