@@ -2,75 +2,75 @@
   "campo": "pascolo_3",
   "lat": 43.854618,
   "lon": 12.199292,
-  "aggiornato": "2026-11-13",
+  "aggiornato": "2026-11-14",
   "giorni": [
     {
-      "data": "2026-11-13",
+      "data": "2026-11-14",
       "label": "Oggi",
       "icona": "🌦",
-      "descrizione": "rovesci leggeri",
-      "temp_max": 15.8,
-      "temp_min": 6.8,
-      "pioggia_mm": 15.1,
-      "wmo_code": 80
-    },
-    {
-      "data": "2026-11-14",
-      "label": "Domani",
-      "icona": "🌧",
-      "descrizione": "pioggia leggera",
-      "temp_max": 8.7,
-      "temp_min": 3.0,
-      "pioggia_mm": 0.2,
-      "wmo_code": 61
+      "descrizione": "pioviggine",
+      "temp_max": 8.4,
+      "temp_min": 3.7,
+      "pioggia_mm": 0.5,
+      "wmo_code": 53
     },
     {
       "data": "2026-11-15",
-      "label": "Sun",
-      "icona": "🌧",
-      "descrizione": "pioggia leggera",
-      "temp_max": 10.3,
-      "temp_min": 3.9,
-      "pioggia_mm": 3.0,
-      "wmo_code": 61
+      "label": "Domani",
+      "icona": "🌦",
+      "descrizione": "rovesci leggeri",
+      "temp_max": 10.2,
+      "temp_min": 4.5,
+      "pioggia_mm": 2.2,
+      "wmo_code": 80
     },
     {
       "data": "2026-11-16",
       "label": "Mon",
       "icona": "🌧",
-      "descrizione": "pioggia",
-      "temp_max": 14.9,
-      "temp_min": 10.3,
-      "pioggia_mm": 9.2,
-      "wmo_code": 63
+      "descrizione": "pioggia leggera",
+      "temp_max": 14.3,
+      "temp_min": 9.6,
+      "pioggia_mm": 2.2,
+      "wmo_code": 61
     },
     {
       "data": "2026-11-17",
       "label": "Tue",
       "icona": "🌧",
       "descrizione": "pioggia leggera",
-      "temp_max": 15.1,
-      "temp_min": 12.2,
-      "pioggia_mm": 3.3,
+      "temp_max": 14.9,
+      "temp_min": 10.7,
+      "pioggia_mm": 2.1,
       "wmo_code": 61
     },
     {
       "data": "2026-11-18",
       "label": "Wed",
-      "icona": "☁️",
-      "descrizione": "coperto",
-      "temp_max": 15.0,
-      "temp_min": 11.2,
-      "pioggia_mm": 0.1,
-      "wmo_code": 3
+      "icona": "🌧",
+      "descrizione": "pioggia leggera",
+      "temp_max": 16.9,
+      "temp_min": 13.3,
+      "pioggia_mm": 2.1,
+      "wmo_code": 61
     },
     {
       "data": "2026-11-19",
       "label": "Thu",
+      "icona": "🌧",
+      "descrizione": "pioggia leggera",
+      "temp_max": 14.4,
+      "temp_min": 12.6,
+      "pioggia_mm": 3.3,
+      "wmo_code": 61
+    },
+    {
+      "data": "2026-11-20",
+      "label": "Fri",
       "icona": "⛅",
       "descrizione": "parzialmente nuvoloso",
-      "temp_max": 14.2,
-      "temp_min": 9.3,
+      "temp_max": 14.3,
+      "temp_min": 5.6,
       "pioggia_mm": 0.0,
       "wmo_code": 2
     }
@@ -79,22 +79,22 @@
     {
       "label": "Oggi",
       "icona": "🌦",
-      "temp_max": 15.8,
-      "pioggia_mm": 15.1
+      "temp_max": 8.4,
+      "pioggia_mm": 0.5
     },
     {
       "label": "Domani",
-      "icona": "🌧",
-      "temp_max": 8.7,
-      "pioggia_mm": 0.2
+      "icona": "🌦",
+      "temp_max": 10.2,
+      "pioggia_mm": 2.2
     },
     {
-      "label": "Sun",
+      "label": "Mon",
       "icona": "🌧",
-      "temp_max": 10.3,
-      "pioggia_mm": 3.0
+      "temp_max": 14.3,
+      "pioggia_mm": 2.2
     }
   ],
-  "pioggia_7gg": 30.9,
-  "temp_media_7gg": 10.8
+  "pioggia_7gg": 12.4,
+  "temp_media_7gg": 11.0
 }
