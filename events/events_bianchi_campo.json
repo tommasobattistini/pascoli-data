@@ -49,6 +49,18 @@
    "rel_drop": 0.366,
    "confidence": "alta",
    "text": "Intorno al 21 giu: vegetazione da 0.76 a 0.39."
+  },
+  {
+   "field_id": "bianchi_campo",
+   "type": "abrupt_drop",
+   "label": "Calo improvviso della vegetazione",
+   "date_from": "2026-10-19",
+   "date_to": "2026-10-29",
+   "ndvi_before": 0.819,
+   "ndvi_after": 0.599,
+   "rel_drop": 0.22,
+   "confidence": "media",
+   "text": "Tra il 19 ott e il 29 ott: vegetazione da 0.82 a 0.60."
   }
  ]
 }

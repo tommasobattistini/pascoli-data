@@ -45,3 +45,4 @@ date,days,rain_mm,temp_c,days_from_start,campo,anno,source
 2026-10-29,7,26.88851952457938,8.89831105186829,,pascolo_6,2026,era5
 2026-11-05,7,23.700000000000003,9.828571428571427,,pascolo_6,2026,open-meteo-archive
 2026-11-12,7,59.0,11.014285714285716,,pascolo_6,2026,open-meteo-archive
+2026-11-19,7,22.7,10.214285714285714,,pascolo_6,2026,open-meteo-archive
